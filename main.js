@@ -41,13 +41,3 @@ const calculate = (num1, num2, operation) => {
     }
 }
 calculate(12, 4, 'add');
-
-// SOLVE.
-
-// 60 = 2(.75X) + 4(.25X)
-// 60 = 1.5X + X
-// 60 = 2.5X
-// X = 24
-
-let answer = divide(60, 2.5);
-console.log(answer);
